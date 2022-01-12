@@ -11,4 +11,4 @@ JavaScript(Electron, Node.js)で作成したデスクトップアプリ
 ◆使用技術：
 - JavaScript
 - [Electron](https://www.electronjs.org/)
-- Node.js
+- [Node.js](https://nodejs.org/ja/)
